@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dipak Mane — Portfolio
 
 A premium, dark-themed, glassmorphism developer portfolio built with Next.js 15, TypeScript, Tailwind CSS, and Framer Motion.
@@ -69,3 +70,15 @@ public/assets/        Profile photo, resume, OG image
 - Visible focus rings on all interactive elements.
 - Profile photo uses `next/image` with responsive `sizes` and priority loading.
 - Particle background runs on `<canvas>`, not DOM nodes, to stay cheap on mobile.
+=======
+# dipak-portfolio
+🚀 A modern and fully responsive personal portfolio website built with Next.js, React, TypeScript, Tailwind CSS, and Framer Motion. 💻 Showcasing my projects, technical skills, certifications, education, and professional experience as a Computer Engineering student and aspiring Backend Developer. 🌟
+
+👋 Welcome to My Portfolio
+
+🚀 Full-Stack & Backend Developer
+💻 Computer Engineering Student
+⚡ Passionate about Web Development, Cloud Computing, and Building Scalable Applications
+
+🌟 Explore my projects, skills, certifications, and journey in software development.
+>>>>>>> 7982baed66f7c58aa5921dc64de605765cf581ba
