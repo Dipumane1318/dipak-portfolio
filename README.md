@@ -8,6 +8,7 @@
 ⚡ Passionate about Web Development, Cloud Computing, and Building Scalable Applications
 
 🌟 Explore my projects, skills, certifications, and journey in software development.
+>>>>>>> 7982baed66f7c58aa5921dc64de605765cf581ba
 <<<<<<< HEAD
 # Dipak Mane — Portfolio
 
